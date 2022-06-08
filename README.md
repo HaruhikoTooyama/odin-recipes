@@ -1,2 +1,3 @@
 # odin-recipes
-tutorial stuff
+## A Website with Recipes
+**Just a bit of tutorial-stuff!**
